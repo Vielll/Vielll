@@ -1,4 +1,4 @@
-[![Gif](https://readme-typing-svg.herokuapp.com/?color=%2300FFE2E&center=true&vCenter=true&lines=Hi+I'm+Viel+👋;Owner+on+OceanMC)](https://github.com/Vielll)
+[![Gif](https://readme-typing-svg.herokuapp.com/?color=%2300FFE2E&center=false&vCenter=true&lines=☂+Hi+I'm+Viel+👋;☂+Owner+on+OceanMC)](https://github.com/Vielll)
 
 <h3 align="center">💻 My Projects</h3>
 <p align="center">Coming soon...</p>
