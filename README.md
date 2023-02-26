@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=Vielll" alt="Rattlyy"/>
 </p>
 
-<h3 align="center">💻 Social</h3>
+<h3 align="center">👤 Social</h3>
 <p align="center">
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/977608906652155974?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
@@ -27,8 +27,6 @@
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white"/>
 </p>
-
-https://img.shields.io/discord/977608906652155974?style=flat-square
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Vielll&include_all_commits=true&show_icons=true&count_private=true&theme=dark"/>
