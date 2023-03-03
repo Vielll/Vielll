@@ -5,10 +5,6 @@
 <h3 align="center">💻 My Projects</h3>
 <p align="center">Coming soon...</p>
 
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=Vielll" alt="Rattlyy"/>
-</p>
-
 <h3 align="center">👤 Social</h3>
 <p align="center">
   <a href="https://discord.gg/t4nXFaCGNc" alt="Discord" title="Discord">
