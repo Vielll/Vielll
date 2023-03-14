@@ -8,7 +8,7 @@
 <h3 align="center">👤 Social</h3>
 <p align="center">
   <a href="https://discord.glacemc.it" alt="Discord" title="Discord">
-    <img src="https://img.shields.io/discord/977608906652155974?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+    <img src="https://img.shields.io/discord/1083397532559876097?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
   <a href="https://www.youtube.com/channel/UC-sdNlPYk_IQ-AOYm2ACAKg" alt="Youtube" title="Youtube">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC-sdNlPYk_IQ-AOYm2ACAKg?color=7289DA&logo=youtube&logoColor=white&style=for-the-badge"/></a>
 </p>
