@@ -1,5 +1,7 @@
 # Hi I'm Vieel 👋
 
+![Vieel](https://discord-readme-badge.vercel.app/api?id=650756382110515211)
+
 <h3>My Social 👤</h3>
   <a href="https://discord.glacemc.it">
     <img src="https://skillicons.dev/icons?i=discord"/>
