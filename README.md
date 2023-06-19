@@ -1,6 +1,6 @@
 # Hi I'm Vieel 👋
 
-![Mieel](https://discord-readme-badge.vercel.app/api?id=650756382110515211)
+[![Discord Presence](https://lanyard.cnrad.dev/api/650756382110515211)](https://discord.com/users/650756382110515211)
 
 <h3>My Social 👤</h3>
   <a href="https://discord.glacemc.it">
