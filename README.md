@@ -3,7 +3,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/650756382110515211)](https://discord.com/users/650756382110515211)
 
 <h3>My Social 👤</h3>
-  <a href="(https://discord.com/invite/Q2SCG7JDP8">
+  <a href="https://discord.com/invite/Q2SCG7JDP8">
     <img src="https://skillicons.dev/icons?i=discord"/>
   </a>
   <a href="https://www.instagram.com/sonoviel">
