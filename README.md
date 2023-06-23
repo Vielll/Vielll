@@ -23,4 +23,4 @@
 <h3>📈 I Github Stats</h3>
 
 <a href="#" align="center">![Github stats](https://github-readme-stats.vercel.app/api?username=Vielll&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Linguaggi](https://github-readme-stats.vercel.app/api/top-langs/?username=Vielll&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+<a href="#">![Linguaggi](https://github-readme-stats.vercel.app/api/top-langs/?username=Vielll&theme=blueberry&count_private=true&hide_border=true)</a>
